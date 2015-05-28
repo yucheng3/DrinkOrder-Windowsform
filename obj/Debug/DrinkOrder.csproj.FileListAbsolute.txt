@@ -1,0 +1,33 @@
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe.config
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmOrderSystem.resources
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Properties.Resources.resources
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csproj.GenerateResource.Cache
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.pdb
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.exe
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.pdb
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmMain.resources
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Form1.resources
+C:\Users\cheng\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe.config
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.exe
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.pdb
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.pdb
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Form1.resources
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmMain.resources
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmOrderSystem.resources
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Properties.Resources.resources
+C:\Users\iii\Desktop\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csproj.GenerateResource.Cache
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe.config
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.exe
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.pdb
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.exe
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\bin\Debug\DrinkOrder.pdb
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Form1.resources
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmMain.resources
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.FrmOrderSystem.resources
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.Properties.Resources.resources
+C:\Users\iii\Desktop\作業 林昱丞 資策會80期 飲料訂購\DrinkOrder\DrinkOrder\obj\Debug\DrinkOrder.csproj.GenerateResource.Cache
